@@ -1,0 +1,12 @@
+
+Deep Leaerning, using parallel methods to detect features on CelebFaces dataset
+
+Download the dataset and unzip locally if running any of the files on jupyter. Requires atleast 2.2 GB of available space
+
+Ensure directory path matches with for training and validation csv files in the notebook
+
+
+For running the notebooks in jupyter comment out all cells until the library import cells.
+
+Use the csv files in Gender folder for running the Gender_Prediction notebook
+Use the csv files in Hair folder for running the Hair_Prediction notebook
